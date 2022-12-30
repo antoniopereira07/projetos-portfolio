@@ -1,4 +1,4 @@
-# criando Tema Light and Dark
+# Criando Tema Light and Dark
 
 ## Linguagens utilizadas
 
